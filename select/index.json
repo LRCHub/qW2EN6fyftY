@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "最強女神†ウーサペコラ",
+  "base_artist": "兎田ぺこら",
+  "createdAt": "2026-02-11T09:07:04.148751Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最強女神†ウーサペコラ",
+      "artist": "兎田ぺこら",
+      "has_synced": false,
+      "path": "select/pl_01_最強女神†ウーサペコラ_兎田ぺこら.txt"
+    }
+  ]
+}
